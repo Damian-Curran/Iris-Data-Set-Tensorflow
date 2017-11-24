@@ -15,4 +15,25 @@ To check if Python installed properly, open your cmd and type "Python".
 
 You should then install the Tensorflow library, this is done by opening your cmd and typing "pip3 install --upgrade tensorflow" for the CPU-only version and "pip3 install --upgrade tensorflow-gpu" for the GPU version.
 
+You will need the numpy library too, to do so, open your cmd and enter "pip install numpy-1.12.0+mkl-cp36-cp36m-win32.whl"
+
+Install Jupyter notebook: http://jupyter.readthedocs.io/en/latest/install.html
+
 Laslty for this example you will need the pandas library, open cmd one last time and enter "pip3 install pandas"
+
+##Iris data set
+
+The data set consists of 5 columns and 150 rows.
+
+These columns are:
+* Sepal Length
+* Sepal Width
+* Petal Length
+* Petal Width
+* Species(setosa, versicolor, virginica)
+
+##Using this repository
+
+git clone https://github.com/Damian404/Iris-Data-Set-Tensorflow.git
+
+Then open Jupyter notebook and open clone
