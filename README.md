@@ -22,7 +22,7 @@ or look at alternative methods http://jupyter.readthedocs.io/en/latest/install.h
 
 Laslty for this example you will need the pandas library, open cmd one last time and enter "pip3 install pandas"
 
-##Iris data set
+## Iris data set
 
 The data set consists of 5 columns and 150 rows.
 
