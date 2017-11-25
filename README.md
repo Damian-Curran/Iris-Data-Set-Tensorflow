@@ -17,7 +17,8 @@ You should then install the Tensorflow library, this is done by opening your cmd
 
 You will need the numpy library too, to do so, open your cmd and enter "pip install numpy-1.12.0+mkl-cp36-cp36m-win32.whl"
 
-Install Jupyter notebook: http://jupyter.readthedocs.io/en/latest/install.html
+Install Jupyter notebook using: pip3 install jupyter
+or look at alternative methods http://jupyter.readthedocs.io/en/latest/install.html
 
 Laslty for this example you will need the pandas library, open cmd one last time and enter "pip3 install pandas"
 
